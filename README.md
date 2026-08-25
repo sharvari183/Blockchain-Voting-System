@@ -102,5 +102,3 @@ Through this project, I learned:
 This project is an educational prototype demonstrating blockchain voting concepts. It should not be considered a production-ready election system.
 
 
-GitHub: **[YOUR GITHUB LINK]**
-
